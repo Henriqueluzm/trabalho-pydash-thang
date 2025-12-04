@@ -1,0 +1,26 @@
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Distribuição / pacotes
+build/
+dist/
+*.egg-info/
+
+# Testes
+.coverage
+*.log
+
+# Editor configs extras
+.vscode/
+
+
+.DS_Store
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
